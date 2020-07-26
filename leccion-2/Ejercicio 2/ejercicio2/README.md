@@ -1,0 +1,2 @@
+### Vamos a crear un nuevo proyecto de React llamado mediacard.
+ Vamos a maquetar una tarjeta dentro del método render de nuestro componente App. Podéis usar una imagen a vuestra elección en lugar de la que aparece en el diseño, y Font-Awesome para el icono del corazón. De esta forma, aprenderemos a cómo trabajar con cosas que ya conocemos (HTML y CSS) en una aplicación de React.

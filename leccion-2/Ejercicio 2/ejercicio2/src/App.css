@@ -1,0 +1,46 @@
+
+body {
+  background-color: purple;
+}
+.card {
+  margin: 60px auto;
+ background-color: white;
+ width: 400px;
+ box-shadow: 15px 15px 15px rgb(216, 172, 230);
+
+}
+
+.card-profile {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+}
+
+.card-profile p {
+  margin: 0;
+  text-align: left;
+  padding-left: 30px;
+}
+
+.card-image {
+  height: 100px;
+  width: 100px;
+}
+
+
+.card-text {
+  padding: 0 20px;
+  text-align: left;
+}
+
+.card-more {
+  display: flex;
+  padding: 0 20px;
+  align-items: center;
+  justify-content: space-between;
+}
+.fas_own {
+  height: 30px;
+  width: 30px;
+}
+
