@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 30px;
+}
+
+.half-page {
+  display: inline-block;
+  margin: 30px;
+  width: 20%;
+  min-height: 100px;
+  background-color: rgb(194, 240, 240);
+  border: solid 1px black;
+}
